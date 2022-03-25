@@ -13,7 +13,7 @@ Essentials Aesthetics is a dynamic dermatology website using HTML, CSS, and vani
 <a name="demo"></a>
 ## Demo
 ![](screenshot-01.png)
-This website is hosted on github and can can be accessed through the following link:\
+This website is hosted on github and can be accessed through the following link:\
 [Essential Aesthetics](https://atia009.github.io/projects/essential-aesthetics/pages/index.html)
 
 <a name="features"></a>
