@@ -11,10 +11,8 @@
 Essentials Aesthetics is a dynamic dermatology website using HTML, CSS, and vanilla JavaScript.  This project explores the use of BEM for naming conventions, utilizes session storage to load current and previously selected items, and dynamically loads products through JavaScript.  
 
 <a name="demo"></a>
-## Demo
+## [Demo](https://atia009.github.io/essential-aesthetics/)
 ![](screenshot-01.png)
-This website is hosted on github and can be accessed through the following link:\
-[Essential Aesthetics](https://atia009.github.io/projects/essential-aesthetics/pages/index.html)
 
 <a name="features"></a>
 ## Features
